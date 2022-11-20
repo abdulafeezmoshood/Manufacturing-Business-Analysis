@@ -7,4 +7,4 @@ This file contains the Visuals Intelligence of Manufacturing industry with the B
 
 ![Profit](https://user-images.githubusercontent.com/97398702/202904821-459879bf-ee12-4790-a4e5-a76f6c2daf20.png)
 
-[Portfolio] https://www.notion.so/abdulafeezmoshood/Portfolio-aab63a51bbe648eca70d794594763ee5
+[Portfolio](https://www.notion.so/abdulafeezmoshood/Portfolio-aab63a51bbe648eca70d794594763ee5)
