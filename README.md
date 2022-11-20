@@ -1,6 +1,5 @@
 # Manufacturing-Business-Analysis
 
-##  
 
 ## Case Study 
 This file contains the Visuals Intelligence of Manufacturing industry with the Big companies and the insights derived from their business intelligence in sales, recalls, the customer sentiment, sales by months, models and so on.
