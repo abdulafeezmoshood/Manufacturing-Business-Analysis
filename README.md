@@ -24,6 +24,5 @@ Number of Recalls by Model and Affected System
 
 Customer Sentiment 
 ![Customer Sentiment](https://user-images.githubusercontent.com/97398702/202911410-f7ba4e30-f6d6-4c19-876a-870794c277f4.png)
+[Capstone dashboard.pdf](https://github.com/AbdulAfeez001/Manufacturing-Business-Analysis/files/10096008/Capstone.dashboard.pdf)
 
-
-[Portfolio](https://www.notion.so/abdulafeezmoshood/Portfolio-aab63a51bbe648eca70d794594763ee5)
