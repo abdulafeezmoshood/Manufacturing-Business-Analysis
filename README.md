@@ -23,6 +23,8 @@ Number of Recalls by Model and Affected System
 ![# of Recalled system by Affected Model](https://user-images.githubusercontent.com/97398702/202911383-c7229210-a377-46b9-a979-3cf61b2d11e9.png)
 
 Customer Sentiment 
+
 ![Customer Sentiment](https://user-images.githubusercontent.com/97398702/202911410-f7ba4e30-f6d6-4c19-876a-870794c277f4.png)
+
 [Capstone dashboard.pdf](https://github.com/AbdulAfeez001/Manufacturing-Business-Analysis/files/10096008/Capstone.dashboard.pdf)
 
